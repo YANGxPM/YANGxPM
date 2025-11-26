@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Hi
+Hi, I'm Yang, a Product Designer based in Shanghai.
 
 <!--
 **YANGSUXer/YANGSUXer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
