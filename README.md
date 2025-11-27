@@ -1,6 +1,6 @@
 ## Hi there 👋
 Hi, I'm Yang, a Product Designer based in Shanghai.  
-Currently I'm learning Artificial Intelligence, and an app based on AI is on the way!
+Currently I'm learning Artificial Intelligence, and an app based on AI is on the way! I'm working on it.
 
 <!--
 **YANGSUXer/YANGSUXer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
