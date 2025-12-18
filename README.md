@@ -1,6 +1,7 @@
 ## Hi there
 I'm Yang, a Product Designer based in Shanghai.  
-Currently I'm learning Artificial Intelligence, and projects based on AI are on the way! I'm working on it.  
+Currently I'm learning Artificial Intelligence, and projects based on AI are on the way! I'm working on them.  
+  
 Peojects:  
 ✅AI Coach  
 ☑️AI Writer
