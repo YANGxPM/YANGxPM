@@ -1,6 +1,7 @@
 ## Hi there
-I'm Yang, a Product Designer based in Shanghai.  
-Currently I'm learning Artificial Intelligence, and projects based on AI are on the way! I'm working on them.  
+I'm Sheng, a Product Designer based in Shanghai.  
+Currently I'm learning Artificial Intelligence and using AI as powerful allies to help me solve some problems.   
+Projects based on AI are on the way! I'm working on them.  
   
 Peojects:  
 ✅Natural Language to SQL  
