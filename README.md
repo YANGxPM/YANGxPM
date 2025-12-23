@@ -5,7 +5,7 @@ Currently I'm learning Artificial Intelligence, and projects based on AI are on 
 Peojects:  
 ✅Natural Language to SQL  
 ✅AI Coach  
-☑️AI Writer
+☑️Next problem to solve?
 
 <!--
 **YANGSUXer/YANGSUXer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
