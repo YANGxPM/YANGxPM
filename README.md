@@ -5,7 +5,7 @@ Projects based on AI are on the way! I'm working on them.
   
 Peojects:  
 ✅Natural Language to SQL  
-✅AI Coach  
+✅My AI Coach  
 ☑️Next problem to solve?
 
 <!--
