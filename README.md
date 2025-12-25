@@ -1,16 +1,16 @@
 ## 👋Hi there!
-[点击查看中文版](README_zh.md)  
+[🔗点击查看中文版](README_zh.md)  
 I'm Sheng, a Product Designer based in Shanghai.  
 Currently I'm learning Artificial Intelligence and using AI as powerful allies to help me solve some problems.   
 Projects based on AI are on the way! I'm working on them.  
   
-### Peojects:  
+### 💼Peojects:  
 ✅My AI Coach  
 ✅Natural Language to SQL  
 ☑️Chatbot  
 
 ---------------------------  
-### Next problem to solve?  
+### 🤔Next problem to solve?  
 (Meditating...)  
 
 
