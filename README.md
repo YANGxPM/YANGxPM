@@ -4,9 +4,14 @@ Currently I'm learning Artificial Intelligence and using AI as powerful allies t
 Projects based on AI are on the way! I'm working on them.  
   
 Peojects:  
-✅Natural Language to SQL  
 ✅My AI Coach  
-☑️Next problem to solve?
+✅Natural Language to SQL  
+☑️Chatbot  
+
+---------------------------  
+Next problem to solve?  
+(Meditating...)  
+
 
 <!--
 **YANGSUXer/YANGSUXer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
