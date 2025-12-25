@@ -1,4 +1,5 @@
 ## 👋哈喽，大家好
+[English edition or you can learn Chinese here](README.md)  
 我是大圣，身处上海的产品设计师。  
 目前在研究各类AI产品，并和人工智能这个强力盟友组队，帮助我解决一些难题。  
 AI助力的项目正在进行中！
