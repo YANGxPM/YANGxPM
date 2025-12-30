@@ -15,7 +15,7 @@ Projects based on AI are on the way! I'm working on them.
 
 
 <!--
-**YANGSUXer/YANGSUXer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**YANGxPM/YANGSxPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
