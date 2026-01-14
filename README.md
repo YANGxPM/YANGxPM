@@ -10,7 +10,9 @@ Projects based on AI are on the way! I'm working on them.
 ✅Chatbot  
 ☑️What's next?  
 
+<!--
 ---------------------------  
+-->
 ### 🤔Next problem to solve?  
 (Meditating...)  
 
