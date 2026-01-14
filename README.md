@@ -7,7 +7,7 @@ Projects based on AI are on the way! I'm working on them.
 ### 💼Projects:  
 ✅My AI Coach  
 ✅Natural Language to SQL  
-✅Chatbot  
+✅Chatbot - A Psychologist  
 ☑️What's next?  
 
 <!--
