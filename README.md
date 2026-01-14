@@ -5,7 +5,7 @@ Currently I'm learning Artificial Intelligence and using AI as powerful allies t
 Projects based on AI are on the way! I'm working on them.  
   
 ### 💼Projects:  
-✅My AI Coach  
+✅[My AI Coach](https://github.com/YANGxPM/My-AI-Coach)  
 ✅Natural Language to SQL  
 ✅Chatbot - A Psychologist  
 ☑️What's next?  
