@@ -9,7 +9,7 @@ Projects based on AI are on the way! I'm working on them.
   
 ✅[Natural Language to SQL](https://github.com/YANGxPM/NaturalLanguagetoSQL)  
   
-✅[MindSpace - AI Mental Wellness Chatbot](https://github.com/YANGxPM/MindSpace) 
+✅[AI Mental Wellness Chatbot](https://github.com/YANGxPM/MindSpace) 
   
 ☑️What's next?  
 
