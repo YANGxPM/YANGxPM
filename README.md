@@ -6,8 +6,8 @@ Projects based on AI are on the way! I'm working on them.
   
 ### 💼Projects:  
 ✅[My AI Coach](https://github.com/YANGxPM/My-AI-Coach)  
-✅Natural Language to SQL  
-✅Chatbot - A Psychologist  
+✅[Natural Language to SQL](https://github.com/YANGxPM/NaturalLanguagetoSQL)  
+✅[Chatbot - AI Psychologist](https://github.com/YANGxPM/MindSpace)  
 ☑️What's next?  
 
 <!--
