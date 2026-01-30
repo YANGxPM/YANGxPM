@@ -2,17 +2,17 @@
 **[🔗点击查看中文版](README_zh.md)**  
 
 I'm Sheng, a Product Designer based in Shanghai.  
-Currently I'm learning Artificial Intelligence and using AI as powerful allies to help me solve some specific problems.   
+Currently, I'm learning Artificial Intelligence and using AI as a powerful ally to help me solve some specific problems.   
 Projects based on AI are on the way! I'm working on them.  
   
 ### 💼Projects:  
-**✅[My AI Coach](https://github.com/YANGxPM/My-AI-Coach)**  
+**✅ [My AI Coach](https://github.com/YANGxPM/My-AI-Coach)**  
   
-**✅[Natural Language to SQL](https://github.com/YANGxPM/NaturalLanguagetoSQL)**  
+**✅ [Natural Language to SQL](https://github.com/YANGxPM/NaturalLanguagetoSQL)**  
   
-**✅[AI Mental Wellness Chatbot](https://github.com/YANGxPM/MindSpace)** 
+**✅ [AI Mental Wellness Chatbot](https://github.com/YANGxPM/MindSpace)** 
   
-☑️What's next?  
+**☑️ AI PM Decision System**   
 
 <!--
 ---------------------------  
