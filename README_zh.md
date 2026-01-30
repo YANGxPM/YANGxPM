@@ -6,13 +6,13 @@
 AI助力的项目正在进行中！
 
 ## 💼项目
-**✅[AI教练](https://github.com/YANGxPM/My-AI-Coach)**  
+**✅ [AI教练](https://github.com/YANGxPM/My-AI-Coach)**  
   
-**✅[自然语言转SQL](https://github.com/YANGxPM/NaturalLanguagetoSQL)**  
+**✅ [自然语言转SQL](https://github.com/YANGxPM/NaturalLanguagetoSQL)**  
   
-**✅[聊天机器人-AI心理树洞](https://github.com/YANGxPM/MindSpace)** 
+**✅ [聊天机器人-AI心理树洞](https://github.com/YANGxPM/MindSpace)** 
   
-☑️接下来的项目？
+**☑️ AI功能决策系统**
   
 ## 🤔接下来该搞点什么呢？  
 (正在冥想......)  
